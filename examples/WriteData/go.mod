@@ -7,4 +7,5 @@ require (
 	github.com/go-ole/go-ole v1.2.5 // indirect
 	github.com/influxdata/influxdb-client-go/v2 v2.3.0
 	github.com/shirou/gopsutil v3.21.4+incompatible
+	golang.org/x/text v0.3.5
 )
